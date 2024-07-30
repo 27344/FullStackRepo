@@ -6,7 +6,7 @@ public class Multiplication {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		mul(10,20);
+		mul(10,20); 
 	}
 
 }
